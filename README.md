@@ -1,6 +1,29 @@
-# BlinkPay - Solana-Powered Payments
+# BlinkPay - Solana-Powered Payments 🚀
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Solana](https://img.shields.io/badge/Solana-14C294?style=flat&logo=solana&logoColor=white)](https://solana.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 BlinkPay is a revolutionary payment platform built on Solana that enables walletless payments through Solana Blinks. Users can make payments without installing wallets, while merchants can accept Solana payments seamlessly.
+
+## 🌟 Features
+
+### Core Features
+- **🔗 Walletless Payments**: Pay with Solana Blinks without installing wallets
+- **🏪 Merchant Dashboard**: Complete merchant onboarding and management
+- **⚡ Real-time Updates**: Live payment status and transaction tracking
+- **📱 Mobile-First**: PWA support with offline capabilities
+- **🔒 Secure**: Production-grade security with encrypted key storage
+- **💰 Multi-token Support**: USDC, SOL, and any SPL token
+
+### Technical Features
+- **⚙️ Anchor Smart Contracts**: Rust-based Solana programs
+- **🌐 Real-time WebSocket**: Live payment updates
+- **📱 PWA Support**: Installable web app
+- **🛡️ Error Boundaries**: Robust error handling
+- **🧪 Testing Suite**: Comprehensive test coverage
+- **🐳 Docker Deployment**: Production-ready containerization
 
 ## 🚀 Features
 
