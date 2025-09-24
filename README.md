@@ -1,4 +1,5 @@
 # BlinkPay - Solana-Powered Payments 🚀
+<img width="1894" height="1070" alt="image" src="https://github.com/user-attachments/assets/6ba0c06b-adfc-4141-9c9a-ad857b31a9bd" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-14C294?style=flat&logo=solana&logoColor=white)](https://solana.com/)
