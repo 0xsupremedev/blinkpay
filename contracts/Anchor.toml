@@ -1,0 +1,15 @@
+[programs.localnet]
+blinkpay = "BLiNkPay11111111111111111111111111111111111"
+
+[programs.devnet]
+blinkpay = "BLiNkPay11111111111111111111111111111111111"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "pnpm ts-node contracts/tests/blinkpay.test.ts"

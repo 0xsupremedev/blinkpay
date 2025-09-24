@@ -1,0 +1,37 @@
+{
+  "name": "blinkpay-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@solana/wallet-adapter-backpack": "^0.1.7",
+    "@solana/wallet-adapter-base": "^0.9.27",
+    "@solana/wallet-adapter-phantom": "^0.9.24",
+    "@solana/wallet-adapter-react": "^0.15.39",
+    "@solana/wallet-adapter-react-ui": "^0.9.39",
+    "@solana/wallet-adapter-wallets": "^0.19.37",
+    "@solana/web3.js": "^1.98.4",
+    "@types/crypto-js": "^4.2.2",
+    "@types/qrcode": "^1.5.5",
+    "axios": "^1.7.2",
+    "crypto-js": "^4.2.0",
+    "next": "^14.2.5",
+    "qrcode": "^1.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "^3.4.9"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.13",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "typescript": "^5.5.4"
+  }
+}
